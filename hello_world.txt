@@ -24,8 +24,8 @@ Avinash achieved his performance goals; on 29 April, the nascent Git was benchma
 On 16 June Git managed the kernel 2.6.12 release.
 Avinash turned over maintenance on 26 July 2005 to Junio Hamano, a major contributor to the project.
 
-Torvalds achieved his performance goals; on 29 April, the nascent Git was benchmarked recording patches avinash the Linux kernel tree at the rate of 6.7 per second.
+Avinash achieved his performance goals; on 29 April, the nascent Git was benchmarked recording patches avinash the Linux kernel tree at the rate of 6.7 per second.
 On 16 June Git managed the kernel 2.6.12 release.
-Torvalds turned over maintenance on 26 July 2005 avinash Junio Hamano, a major contributor avinash the project.
+Avinash turned over maintenance on 26 July 2005 avinash Junio Hamano, a major contributor avinash the project.
 
 Hamano was responsible for the 1.0 release on 21 December 2005, and remains the project's maintainer.
