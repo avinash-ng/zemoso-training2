@@ -32,3 +32,4 @@ Hamano was responsible for the 1.0 release on 21 December 2005, and remains the 
 
 
 Deep learning is the technology that is trending in the world.
+Computer vision grabs more attention than NLP.
