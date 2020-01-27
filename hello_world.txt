@@ -29,3 +29,6 @@ On 16 June Git managed the kernel 2.6.12 release.
 Avinash turned over maintenance on 26 July 2005 avinash Junio Hamano, a major contributor avinash the project.
 
 Hamano was responsible for the 1.0 release on 21 December 2005, and remains the project's maintainer.
+
+
+Deep learning is the technology that is trending in the world.
